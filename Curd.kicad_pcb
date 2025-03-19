@@ -9925,7 +9925,7 @@
 	(footprint "Curd:XR0630-4R7M"
 		(layer "F.Cu")
 		(uuid "b54e1955-dd5c-4efa-9eac-99010e065ae6")
-		(at 131.75 33.5 180)
+		(at 131.75 33.75 180)
 		(property "Reference" "L1"
 			(at -6.025 -0.51 180)
 			(unlocked yes)
